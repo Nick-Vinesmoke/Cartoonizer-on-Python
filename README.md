@@ -21,7 +21,7 @@ Final result:
 
 What need to be in files folder:
 
-![LOGO](files/Screenshot_2.png)
+![LOGO](git/Screenshot_2.png)
 
 more [here](https://github.com/TomSchimansky/CustomTkinter/wiki/Packaging)
 
