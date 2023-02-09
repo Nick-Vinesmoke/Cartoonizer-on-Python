@@ -14,7 +14,6 @@ If you want to change something in code you need to know how [CustomTkinter](htt
 ---
 ### 🔨How to compile it
 So firstly you need to download [python](https://www.python.org/downloads/). Then run Compile.bat and .exe file need to be in one directory with the files folder.
-Or you can copy .exe file to ready folder, and all files which place in the ready folder is files for .exe
 Final result:
 
 ![LOGO](git/Screenshot_1.png)
