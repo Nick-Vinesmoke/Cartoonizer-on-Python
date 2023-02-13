@@ -18,7 +18,7 @@ Final result:
 
 ![LOGO](git/Screenshot_1.png)
 
-What need to be in files folder:
+What need to be in "files" folder:
 
 ![LOGO](git/Screenshot_2.png)
 
